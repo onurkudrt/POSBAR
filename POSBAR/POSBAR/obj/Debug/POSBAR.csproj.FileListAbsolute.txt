@@ -1,0 +1,11 @@
+C:\Users\Monster\source\repos\POSBAR\POSBAR\bin\Debug\POSBAR.exe.config
+C:\Users\Monster\source\repos\POSBAR\POSBAR\bin\Debug\POSBAR.exe
+C:\Users\Monster\source\repos\POSBAR\POSBAR\bin\Debug\POSBAR.pdb
+C:\Users\Monster\source\repos\POSBAR\POSBAR\obj\Debug\POSBAR.csproj.AssemblyReference.cache
+C:\Users\Monster\source\repos\POSBAR\POSBAR\obj\Debug\POSBAR.Form1.resources
+C:\Users\Monster\source\repos\POSBAR\POSBAR\obj\Debug\POSBAR.Properties.Resources.resources
+C:\Users\Monster\source\repos\POSBAR\POSBAR\obj\Debug\POSBAR.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\POSBAR\POSBAR\obj\Debug\POSBAR.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\POSBAR\POSBAR\obj\Debug\POSBAR.exe
+C:\Users\Monster\source\repos\POSBAR\POSBAR\obj\Debug\POSBAR.pdb
+C:\Users\Monster\source\repos\POSBAR\POSBAR\obj\Debug\POSBAR.CashierInterface.resources
